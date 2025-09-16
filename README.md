@@ -17,9 +17,4 @@ O projeto conta com 5 paginas html, onde cada uma aborda os principais tópicos 
 - Mariana Caroline F. Ferreira
 - Wellington da Silva Rodrigues
 
-<<<<<<< HEAD
 https://typebot.co/softex-u76mpr7
-=======
-
-https://typebot.co/softex-u76mpr7
->>>>>>> 432efb495a59d789d3b051660018b4d6f69e9226

@@ -116,6 +116,11 @@ footer a:hover {
     text-decoration: underline;
 }
 
+#chatbot {
+    color: rgb(7, 81, 241);
+    text-decoration: underline;
+}
+
 /* Responsividade */
 
 @media (max-width: 940px){
