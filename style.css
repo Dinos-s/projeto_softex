@@ -35,6 +35,10 @@ nav a:hover {
     text-decoration: underline;
 }
 
+.ativa{
+      color: #74dbd6;
+}
+
 /* MAIN */
 
 /* main {
@@ -58,6 +62,10 @@ h2 {
     margin-bottom: 5px;
 }
 
+.pc{
+    padding-left: 15px;
+}
+
 p{
     font-size: 18px;
     color: #333;
@@ -74,10 +82,15 @@ img {
     margin-right: auto;
 }
 
+.imgErro{
+    width: 820px;
+}
+
 /* Rodapé */
 footer {
     border-top: 1px solid #333;
     padding: 30px 20px;
+
 }
 
 footer p {
@@ -105,6 +118,34 @@ footer a:hover {
 
 /* Responsividade */
 
-@media (max-win) {
+@media (max-width: 940px){
+    img.imgErro{
+        width: 820px;
+    }
+
+}
+
+@media (max-width: 881px) { /* Usamos 881px para que a mudança ocorra *quando chegar a* 882px */
+  header{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
     
+  }
+
+
+  nav {
+    flex-direction: column; /* Coloca os links em coluna */
+    align-items: center; /* Centraliza os links horizontalmente */
+    gap: 10px;
+  }
+
+  img.imgErro{
+    max-width: 500px;
+  }
+
+  main, footer{
+    text-align: justify;
+  }
+  
+
 }
