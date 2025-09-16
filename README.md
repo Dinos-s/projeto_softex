@@ -16,3 +16,5 @@ O projeto conta com 5 paginas html, onde cada uma aborda os principais tópicos 
 - Mariana Gomes Kottas
 - Mariana Caroline F. Ferreira
 - Wellington da Silva Rodrigues
+
+https://typebot.co/softex-u76mpr7
